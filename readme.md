@@ -1,5 +1,5 @@
-<div>
-<h1>DJANGO</h1>
+# DJANGO
+## ASD
 
 - [Course.](https://github.com/Nouvellie/django-2nd/tree/django/course)
 
